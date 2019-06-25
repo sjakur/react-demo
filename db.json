@@ -1,11 +1,11 @@
 {
 	"tanks": [{
 		"id": 1,
-		"src": "src/static/images/tank1.png",
+		"src": "../static/images/tank1.png",
 		"isTank": false
 	}, {
 		"id": 2,
-		"src": "src/static/images/tank2.png",
+		"src": "../static/images/tank2.png",
 		"isTank": false
 	}]
 }
