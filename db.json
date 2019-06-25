@@ -1,12 +1,9 @@
 {
-	"notes": [{
-		"id": 2,
-		"text": "You got this!"
+	"tanks": [{
+		"src": "src/static/images/tank1.png",
+		"isTank": false
 	}, {
-		"id": 4,
-		"text": "got it!"
-	}, {
-		"id": 5,
-		"text": "keep it going!"
+		"src": "src/static/images/tank2.png",
+		"isTank": false
 	}]
 }
