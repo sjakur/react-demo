@@ -6,6 +6,7 @@
 			"thumbnail": "https://www.dropbox.com/s/stwtubpkz9kmrfe/demo_rot-134.83_tile0_tran0.png?dl=1",
 			"thumbnailWidth": 256,
 			"thumbnailHeight": 256,
+			"isSelected": false,
 			"caption": ""
 		},
 		{
@@ -14,6 +15,7 @@
 			"thumbnail": "https://www.dropbox.com/s/pb0cezjlyunorow/demo_rot-290.63_tile0_tran0.png?dl=1",
 			"thumbnailWidth": 256,
 			"thumbnailHeight": 256,
+			"isSelected": false,
 			"caption": ""
 		},
 		{
@@ -22,6 +24,7 @@
 			"thumbnail": "https://www.dropbox.com/s/r6ob26alkst0r6g/demo_rot56.68_tile0_tran1.png?dl=1",
 			"thumbnailWidth": 256,
 			"thumbnailHeight": 256,
+			"isSelected": false,
 			"caption": ""
 		},
 		{
@@ -30,6 +33,7 @@
 			"thumbnail": "https://www.dropbox.com/s/aky54pj35v888dg/high_res_image_rot90_tile0_tran0.png?dl=1",
 			"thumbnailWidth": 256,
 			"thumbnailHeight": 256,
+			"isSelected": false,
 			"caption": ""
 		},
 		{
@@ -47,6 +51,7 @@
 			"thumbnail": "https://www.dropbox.com/s/rzsj2hz50wgs4nh/high_res_image_scal0.08_tile0_tran1.png?dl=1",
 			"thumbnailWidth": 256,
 			"thumbnailHeight": 256,
+			"isSelected": false,
 			"caption": ""
 		},
 		{
@@ -64,6 +69,7 @@
 			"thumbnail": "https://www.dropbox.com/s/tqu2dx2ivc2nuiq/demo_rot172.76_tile0_tran0.png?dl=1",
 			"thumbnailWidth": 256,
 			"thumbnailHeight": 256,
+			"isSelected": false,
 			"caption": ""
 		},
 		{
@@ -72,6 +78,7 @@
 			"thumbnail": "https://www.dropbox.com/s/we04hrg9yygdvcx/high_res_image_vflip_tile1_tran1.png?dl=1",
 			"thumbnailWidth": 256,
 			"thumbnailHeight": 256,
+			"isSelected": false,
 			"caption": ""
 		},
 		{
@@ -80,6 +87,7 @@
 			"thumbnail": "https://www.dropbox.com/s/tqu2dx2ivc2nuiq/demo_rot172.76_tile0_tran0.png?dl=1",
 			"thumbnailWidth": 256,
 			"thumbnailHeight": 256,
+			"isSelected": false,
 			"caption": ""
 		},
 		{
