@@ -1,11 +1,95 @@
 {
-	"tanks": [{
-		"id": 1,
-		"src": "/images/tank1.png",
-		"isTank": false
-	}, {
-		"id": 2,
-		"src": "/images/tank2.png",
-		"isTank": false
-	}]
+	 tanks: [
+        {
+            id: 0,
+            src: "https://www.dropbox.com/s/stwtubpkz9kmrfe/demo_rot-134.83_tile0_tran0.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/stwtubpkz9kmrfe/demo_rot-134.83_tile0_tran0.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            caption: ""
+        },
+        {
+            id:1,
+            src: "https://www.dropbox.com/s/pb0cezjlyunorow/demo_rot-290.63_tile0_tran0.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/pb0cezjlyunorow/demo_rot-290.63_tile0_tran0.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            caption: ""
+        },
+        {
+            id:2,
+            src: "https://www.dropbox.com/s/r6ob26alkst0r6g/demo_rot56.68_tile0_tran1.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/r6ob26alkst0r6g/demo_rot56.68_tile0_tran1.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            caption: ""
+        },
+        {
+            id:3,
+            src: "https://www.dropbox.com/s/aky54pj35v888dg/high_res_image_rot90_tile0_tran0.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/aky54pj35v888dg/high_res_image_rot90_tile0_tran0.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            caption: ""
+        },
+        {
+            id:4,
+            src: "https://www.dropbox.com/s/84gzxaw6ieqpf61/demo_rot61.58_tile0_tran0.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/84gzxaw6ieqpf61/demo_rot61.58_tile0_tran0.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            isSelected: true,
+            caption: ""
+        },
+        {
+            id:5,
+            src: "https://www.dropbox.com/s/rzsj2hz50wgs4nh/high_res_image_scal0.08_tile0_tran1.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/rzsj2hz50wgs4nh/high_res_image_scal0.08_tile0_tran1.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            caption: ""
+        },
+        {
+            id:6,
+            src: "https://www.dropbox.com/s/rzsj2hz50wgs4nh/high_res_image_scal0.08_tile0_tran1.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/rzsj2hz50wgs4nh/high_res_image_scal0.08_tile0_tran1.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            isSelected: true,
+            caption: ""
+        },
+        {
+            id:7,
+            src: "https://www.dropbox.com/s/tqu2dx2ivc2nuiq/demo_rot172.76_tile0_tran0.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/tqu2dx2ivc2nuiq/demo_rot172.76_tile0_tran0.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            caption: ""
+        },
+        {
+            id:8,
+            src: "https://www.dropbox.com/s/we04hrg9yygdvcx/high_res_image_vflip_tile1_tran1.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/we04hrg9yygdvcx/high_res_image_vflip_tile1_tran1.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            caption: ""
+        },
+        {
+            id:9,
+            src: "https://www.dropbox.com/s/tqu2dx2ivc2nuiq/demo_rot172.76_tile0_tran0.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/tqu2dx2ivc2nuiq/demo_rot172.76_tile0_tran0.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            caption: ""
+        },  
+        {
+            id:10,
+            src: "https://www.dropbox.com/s/rzsj2hz50wgs4nh/high_res_image_scal0.08_tile0_tran1.png?dl=1",
+            thumbnail: "https://www.dropbox.com/s/rzsj2hz50wgs4nh/high_res_image_scal0.08_tile0_tran1.png?dl=1",
+            thumbnailWidth: 256,
+            thumbnailHeight: 256,
+            isSelected: true,
+            caption: ""
+        }
+    ]
 }
